@@ -1,4 +1,2 @@
-1. Nextjs
+1. Angular
 2. Laravel
-3. Vue
-4. React
