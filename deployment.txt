@@ -1,0 +1,5 @@
+1. Deployment
+    - VPS
+    - Shared Hosting
+2. CI/CD
+    - Otomatis cek kode setiap ada perubahan
