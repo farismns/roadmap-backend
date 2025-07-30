@@ -1,0 +1,5 @@
+1. Security
+    - Enkripsi
+    - Hashing
+2. Testing
+    - Unit test
