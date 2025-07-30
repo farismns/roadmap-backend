@@ -1,0 +1,7 @@
+resolusi saya:
+1. Bahasa Pemrograman
+2. Framework
+3. Funda Database
+4. API
+5. Security and Testing
+6. Deployment
