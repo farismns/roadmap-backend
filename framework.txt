@@ -1,3 +1,4 @@
-1. Mern
+1. Nextjs
 2. Laravel
-3. vue
+3. Vue
+4. React
