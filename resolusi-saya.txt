@@ -1,7 +1,15 @@
 resolusi saya:
 1. Bahasa Pemrograman
+    - Javascript
 2. Framework
+    - vue
+    - angular
 3. Funda Database
+    - Oracle
 4. API
+    - REST
 5. Security and Testing
+    - Hashing
+    - Enkripsi
 6. Deployment
+    - VPS
